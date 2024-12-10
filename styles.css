@@ -1,0 +1,42 @@
+/* Question 1 Task 1 */
+
+body {
+    font-family: 'Georgia', serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #c91616;
+}
+
+.special-text {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkcyan;
+    font-weight: bold;
+}
+
+h1, h2, h3 {
+    font-family: 'Arial', sans-serif;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    color: rgb(238, 138, 66);
+}
+
+ol {
+    color: antiquewhite;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 10px;
+    border: 2px solid #000;
+    padding: 30px;
+    width: 900px;
+    height: 250px;
+}
+
+div:hover {
+    color: aliceblue;
+    background-color: black;
+    width: 600px;
+}
+
+footer {
+    text-shadow: #000;
+    color: darksalmon;
+}
